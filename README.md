@@ -1,6 +1,6 @@
 
 
-# 산업공학캡스톤IC-PBL 팀1 Report
+# Style-GAN 개선 연구 Report
 
 산업공학과 이현희  
 산업공학과 김은서  
